@@ -1,0 +1,10 @@
+PySide6==6.7.2
+pydantic==2.8.2
+openai==1.52.2
+pymupdf==1.24.9
+pillow==10.4.0
+moviepy==1.0.3
+python-pptx==1.0.2
+pywin32==306; sys_platform == "win32"
+tenacity==8.5.0
+requests==2.32.3
