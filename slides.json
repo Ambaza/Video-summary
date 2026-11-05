@@ -1,0 +1,300 @@
+{
+  "slides": [
+    {
+      "title": "Introduction to Our Solar System",
+      "title_emoji": "🌌",
+      "bullets": [
+        "Explore the wonders of our solar system",
+        "Learn about planets, moons, and more",
+        "Discover the origins of celestial bodies"
+      ],
+      "bullet_emojis": [
+        "",
+        "",
+        ""
+      ],
+      "narration_script": "Welcome to our journey through the solar system! In this presentation, we will explore the fascinating celestial bodies that make up our solar neighborhood. From the rocky planets to the gas giants, each has its own unique characteristics and mysteries. We'll also delve into the origins of these bodies and how they interact with each other in the vastness of space.",
+      "source_pages": [
+        1
+      ],
+      "image_refs": [],
+      "visual_style": {
+        "theme_color": "#1E1E2F",
+        "accent_color": "#FFCC00",
+        "layout": "title-bullets-left",
+        "bg_style": "solid",
+        "emphasis_words": [
+          "solar system",
+          "explore",
+          "discover"
+        ],
+        "effects": {
+          "motion": "none",
+          "transition_in": "fade",
+          "transition_out": "fade",
+          "intro_emphasis": "underline",
+          "bg_overlay": "none"
+        }
+      }
+    },
+    {
+      "title": "What is a Planet?",
+      "title_emoji": "🌍",
+      "bullets": [
+        "Defined as a body orbiting the sun",
+        "Must be massive enough to be nearly round",
+        "Has cleared its orbital path of other debris"
+      ],
+      "bullet_emojis": [
+        "",
+        "",
+        ""
+      ],
+      "narration_script": "So, what exactly is a planet? According to the International Astronomical Union, a planet is defined as a celestial body that orbits the sun, is massive enough for its gravity to make it nearly round, and has cleared its orbital path of other debris. This definition helps us distinguish planets from other objects like asteroids and dwarf planets.",
+      "source_pages": [
+        9
+      ],
+      "image_refs": [],
+      "visual_style": {
+        "theme_color": "#2E2E3A",
+        "accent_color": "#FF5733",
+        "layout": "title-bullets-right",
+        "bg_style": "solid",
+        "emphasis_words": [
+          "planet",
+          "orbiting",
+          "massive"
+        ],
+        "effects": {
+          "motion": "none",
+          "transition_in": "slide-up",
+          "transition_out": "slide-left",
+          "intro_emphasis": "none",
+          "bg_overlay": "none"
+        }
+      }
+    },
+    {
+      "title": "The Inner Planets",
+      "title_emoji": "🪐",
+      "bullets": [
+        "Mercury, Venus, Earth, Mars",
+        "Rocky surfaces with varied atmospheres",
+        "Closest to the sun, smaller in size"
+      ],
+      "bullet_emojis": [
+        "",
+        "",
+        ""
+      ],
+      "narration_script": "Let's take a closer look at the inner planets: Mercury, Venus, Earth, and Mars. These rocky planets are characterized by their solid surfaces and varied atmospheres. They are the closest to the sun and are generally smaller in size compared to their outer counterparts. Each planet presents a unique environment and geological history.",
+      "source_pages": [
+        7
+      ],
+      "image_refs": [],
+      "visual_style": {
+        "theme_color": "#4A4A56",
+        "accent_color": "#00BFFF",
+        "layout": "title-bullets-bottom",
+        "bg_style": "solid",
+        "emphasis_words": [
+          "Mercury",
+          "Venus",
+          "Earth"
+        ],
+        "effects": {
+          "motion": "kenburns-slow",
+          "transition_in": "zoom-in",
+          "transition_out": "fade",
+          "intro_emphasis": "sparkle",
+          "bg_overlay": "none"
+        }
+      }
+    },
+    {
+      "title": "The Outer Planets",
+      "title_emoji": "🌌",
+      "bullets": [
+        "Jupiter, Saturn, Uranus, Neptune",
+        "Gas giants with thick atmospheres",
+        "Known for their rings and moons"
+      ],
+      "bullet_emojis": [
+        "",
+        "",
+        ""
+      ],
+      "narration_script": "Next, we explore the outer planets: Jupiter, Saturn, Uranus, and Neptune. These gas giants are known for their thick atmospheres and lack of a solid surface. They are also famous for their stunning ring systems and numerous moons, making them some of the most fascinating bodies in our solar system.",
+      "source_pages": [
+        7
+      ],
+      "image_refs": [],
+      "visual_style": {
+        "theme_color": "#5C5C70",
+        "accent_color": "#FFD700",
+        "layout": "title-bullets-left",
+        "bg_style": "solid",
+        "emphasis_words": [
+          "Jupiter",
+          "Saturn",
+          "Uranus"
+        ],
+        "effects": {
+          "motion": "kenburns-normal",
+          "transition_in": "fade",
+          "transition_out": "slide-left",
+          "intro_emphasis": "none",
+          "bg_overlay": "none"
+        }
+      }
+    },
+    {
+      "title": "The Role of the Sun",
+      "title_emoji": "☀️",
+      "bullets": [
+        "The sun is the solar system's star",
+        "Provides energy and light for life",
+        "Holds the solar system together with gravity"
+      ],
+      "bullet_emojis": [
+        "",
+        "",
+        ""
+      ],
+      "narration_script": "The sun is the heart of our solar system, providing essential energy and light that supports life on Earth. It holds the entire solar system together with its immense gravitational pull, influencing the orbits of all the planets and other celestial bodies. Understanding the sun's role is crucial to understanding our place in the universe.",
+      "source_pages": [
+        17
+      ],
+      "image_refs": [],
+      "visual_style": {
+        "theme_color": "#FF4500",
+        "accent_color": "#FFD700",
+        "layout": "title-bullets-right",
+        "bg_style": "solid",
+        "emphasis_words": [
+          "sun",
+          "energy",
+          "gravity"
+        ],
+        "effects": {
+          "motion": "none",
+          "transition_in": "slide-up",
+          "transition_out": "fade",
+          "intro_emphasis": "underline",
+          "bg_overlay": "none"
+        }
+      }
+    },
+    {
+      "title": "Exploration of the Solar System",
+      "title_emoji": "🚀",
+      "bullets": [
+        "Robotic spacecraft have explored beyond Earth",
+        "Missions to Mars and beyond",
+        "Future plans for human exploration"
+      ],
+      "bullet_emojis": [
+        "",
+        "",
+        ""
+      ],
+      "narration_script": "Robotic spacecraft have been paving the way for exploration beyond Earth since the late 20th century. Missions to Mars and other planets have provided invaluable data about our solar system. Looking ahead, there are ambitious plans for human exploration, particularly to Mars, which could happen in the coming decades.",
+      "source_pages": [
+        15
+      ],
+      "image_refs": [],
+      "visual_style": {
+        "theme_color": "#2E8B57",
+        "accent_color": "#FFD700",
+        "layout": "title-bullets-bottom",
+        "bg_style": "solid",
+        "emphasis_words": [
+          "exploration",
+          "Mars",
+          "missions"
+        ],
+        "effects": {
+          "motion": "kenburns-normal",
+          "transition_in": "zoom-in",
+          "transition_out": "slide-left",
+          "intro_emphasis": "none",
+          "bg_overlay": "none"
+        }
+      }
+    },
+    {
+      "title": "The Search for Life",
+      "title_emoji": "🔍",
+      "bullets": [
+        "Investigating the potential for life on other planets",
+        "Mars and Europa as prime candidates",
+        "The role of extremophiles on Earth"
+      ],
+      "bullet_emojis": [
+        "",
+        "",
+        ""
+      ],
+      "narration_script": "The search for extraterrestrial life is one of the most exciting aspects of space exploration. Mars and Europa, one of Jupiter's moons, are prime candidates due to their potential for harboring life. Additionally, studying extremophiles on Earth—organisms that thrive in extreme conditions—helps scientists understand where life might exist beyond our planet.",
+      "source_pages": [
+        27
+      ],
+      "image_refs": [],
+      "visual_style": {
+        "theme_color": "#1E90FF",
+        "accent_color": "#FFD700",
+        "layout": "title-bullets-left",
+        "bg_style": "solid",
+        "emphasis_words": [
+          "life",
+          "Mars",
+          "Europa"
+        ],
+        "effects": {
+          "motion": "none",
+          "transition_in": "fade",
+          "transition_out": "slide-left",
+          "intro_emphasis": "underline",
+          "bg_overlay": "none"
+        }
+      }
+    },
+    {
+      "title": "Conclusion",
+      "title_emoji": "✨",
+      "bullets": [
+        "The solar system is a vast and dynamic place",
+        "Continued exploration will reveal more secrets",
+        "Our understanding of the universe is always evolving"
+      ],
+      "bullet_emojis": [
+        "",
+        "",
+        ""
+      ],
+      "narration_script": "In conclusion, our solar system is a vast and dynamic place filled with wonders waiting to be explored. Each mission and discovery adds to our understanding and reveals more secrets about the universe we inhabit. As we continue to explore, who knows what incredible discoveries await us in the cosmos?",
+      "source_pages": [
+        1
+      ],
+      "image_refs": [],
+      "visual_style": {
+        "theme_color": "#4B0082",
+        "accent_color": "#FFD700",
+        "layout": "title-bullets-right",
+        "bg_style": "solid",
+        "emphasis_words": [
+          "solar system",
+          "exploration",
+          "universe"
+        ],
+        "effects": {
+          "motion": "none",
+          "transition_in": "slide-up",
+          "transition_out": "fade",
+          "intro_emphasis": "none",
+          "bg_overlay": "none"
+        }
+      }
+    }
+  ]
+}
